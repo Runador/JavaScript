@@ -1,2 +1,2 @@
 # JavaScript
-This repo contains JS Front-End projects
+This repo contains JS Front-End projects from SoftUni
